@@ -1,1 +1,4 @@
+Versión 1: Contenido inicial
+Versión 2: Se agregó una línea nueva
 Versión 3: Otra línea adicional agregada
+Versión 4: Otra línea adicional agregada más
